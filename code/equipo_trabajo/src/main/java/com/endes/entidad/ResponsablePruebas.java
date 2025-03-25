@@ -28,7 +28,7 @@ public class ResponsablePruebas extends Personal {
     }
     
     /**
-     * Devuelve el la cantidad de bug detectados.
+     * Devuelve el la cantidad de bug detectados. 
      * 
      * @return los bugs como Double
      */
@@ -39,7 +39,7 @@ public class ResponsablePruebas extends Personal {
     
 
     /**
-     * Establece la cantidad de bugs.
+     * Establece la cantidad de bugs detectados.
      * 
      * @param bugsDetectados numero de bugs detectados
      * @throws IllegalArgumentException si el numero de bugs es negativo
