@@ -5,7 +5,7 @@ package com.endes.entidad;
  * 
  * Otros lenguajes no proporcionan ningún bonus adicional.
  * 
- * @author 
+ * @author RAul
  */
 public class Desarrollador extends Personal {
     private String lenguajePrincipal;
